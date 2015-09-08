@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2013\Projects\MegaWarCardGame\MegaWarCardGame\bin\MegaWarCardGame.dll.config
+c:\users\student\documents\visual studio 2013\Projects\MegaWarCardGame\MegaWarCardGame\bin\MegaWarCardGame.dll
+c:\users\student\documents\visual studio 2013\Projects\MegaWarCardGame\MegaWarCardGame\bin\MegaWarCardGame.pdb
+c:\users\student\documents\visual studio 2013\Projects\MegaWarCardGame\MegaWarCardGame\obj\Debug\MegaWarCardGame.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\MegaWarCardGame\MegaWarCardGame\obj\Debug\MegaWarCardGame.dll
+c:\users\student\documents\visual studio 2013\Projects\MegaWarCardGame\MegaWarCardGame\obj\Debug\MegaWarCardGame.pdb
